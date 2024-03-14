@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(to right, #134e5e, #71b280);
+    font-size: 30px;
+}
+
+div{
+    color: #f1f1f1;
+    font-family: 'Segoe UI';
+    margin: 30px;
+    padding: 15px;
+}
+
+#parrafo1{
+    font-size: 2rem;
+}
+
+#parrafo2{
+    font-size: .5em;
+    
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
